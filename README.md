@@ -7,14 +7,11 @@
 
 <p>In this repository , apart of my exercises in th field of multithreading is placed,below are some of the subjects thatwere practicedand studied </p>
 <br>
-. Thread pool executer
-. Daemon
-. Implementation thread with class base
-. Thread safe, race condition, dead lock , lock, Rlock
-. Semaphor
-- First item
-- Second item
-- Third item
-- Fourth item
-
+<ul>
+<li>Thread pool executer</li>
+<li>Daemon</li>
+<li>Implementation thread with class base</li>
+<li>Thread safe, race condition, dead lock , lock, Rlock</li>
+<li>Semaphor</li>
+</ul>
 
