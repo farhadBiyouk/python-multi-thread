@@ -8,6 +8,10 @@
 . Implementation thread with class base
 . Thread safe, race condition, dead lock , lock, Rlock
 . Semaphor
+- First item
+- Second item
+- Third item
+- Fourth item
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
